@@ -13,9 +13,13 @@ Sample data - [BankChurners for EDA 2023](https://github.com/jivaniyash/ML_Proje
 There are total 21 attributes(columns) containing customer's info:
 
     1. Clientnum - Client number. Unique identifier for the customer holding the account
-    2. Attrition_Flag - Internal event (customer activity) variable - if the account is closed then 1 else 0
+    2. Attrition_Flag - Internal event (customer activity) variable -
+        - Existing Customer: if the account is open 
+        - Attrited Customer: if the account is closed
     3. Customer_Age - Demographic variable - Customer's Age in Years
-    4. Gender - Demographic variable - M=Male, F=Female
+    4. Gender - Demographic variable - 
+        - M: Male 
+        - F: Female
     5. Dependent_count - Demographic variable - Number of dependents
     6. Education_Level - Demographic variable - Educational Qualification of the account holder (example: high school, college graduate, etc.)
     7. Marital_Status - Demographic variable - Married, Single, Divorced, Unknown
