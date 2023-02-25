@@ -21,10 +21,25 @@ There are total 21 attributes(columns) containing customer's info:
         - M: Male 
         - F: Female
     5. Dependent_count - Demographic variable - Number of dependents
-    6. Education_Level - Demographic variable - Educational Qualification of the account holder (example: high school, college graduate, etc.)
-    7. Marital_Status - Demographic variable - Married, Single, Divorced, Unknown
-    8. Income_Category - Demographic variable - Annual Income Category of the account holder (< $40K, $40K - 60K, $60K - $80K, $80K-$120K, > $120K, Unknown)
-    9. Card_Category - Product Variable - Type of Card (Blue, Silver, Gold, Platinum)
+    6. Education_Level - Demographic variable - Educational Qualification of the account holder -
+        - high school
+        - college graduate, etc
+    7. Marital_Status - Demographic variable - 
+        - Married
+        - Single
+        - Divorced
+        - Unknown
+    8. Income_Category - Demographic variable - Annual Income Category of the account holder -
+        - < $40K
+        - $40K - 60K- $60K
+        - $80K, $80K-$120K
+        - > $120K
+        - Unknown
+    9. Card_Category - Product Variable - Type of Card - 
+        - Blue
+        - Silver
+        - Gold
+        - Platinum
     10. Months_on_book - Period of relationship with bank
     11. Total_Relationship_Count - Total no. of products held by the customer
     12. Months_Inactive_12_mon - No. of months inactive in the last 12 months
