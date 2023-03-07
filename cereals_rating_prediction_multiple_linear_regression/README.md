@@ -1,4 +1,4 @@
-# CEREALS RATING PREDICTION USING MULTIPLE LINEAR REGRESSION
+# CEREALS RATING PREDICTION USING _MULTIPLE LINEAR REGRESSION_
 
 This folder contains files used for analyis and predcition of rating of different cereals. Using multiple linear regression model, prediction of ratings of different materials (cereals) is done.
 
