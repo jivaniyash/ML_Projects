@@ -52,3 +52,7 @@ There are total 21 attributes(columns) containing customer's info:
     19. Total_Trans_Ct - Total Transaction Count (Last 12 months)
     20. Total Ct Chng Q4 Q1 – Rate of counts from Q1 to Q4
     21. Avg_Utilization_Ratio - Average Card Utilization Ratio
+
+---
+
+[Phase-1.twb](https://github.com/jivaniyash/ML_Projects/blob/master/customer_churn's_project/Phase-1.twb) is tableau file used to perform EDA and some of the useful insights is shown in [EDA.pdf](https://github.com/jivaniyash/ML_Projects/blob/master/customer_churn's_project/EDA.pdf). 
