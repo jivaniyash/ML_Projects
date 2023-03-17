@@ -56,3 +56,5 @@ There are total 21 attributes(columns) containing customer's info:
 ---
 
 [Phase-1.twb](https://github.com/jivaniyash/ML_Projects/blob/master/customer_churn's_project/Phase-1.twb) is tableau file used to perform EDA and some of the useful insights is shown in [EDA.pdf](https://github.com/jivaniyash/ML_Projects/blob/master/customer_churn's_project/EDA.pdf). 
+
+Check this project in [MS Sway](https://sway.office.com/h9oMniEIScGzr7TF) & in [Tableau Public](https://public.tableau.com/app/profile/yash.jivani/viz/BankCustomerChurn_16790146090980/Story1)
