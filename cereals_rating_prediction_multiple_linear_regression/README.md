@@ -27,4 +27,7 @@ The rating hinges mainly on the nutritional value of the ingredients. So, for mo
 - Vitamins
 
 ---
-
+### Rating of Cereal A:- 55.72
+### Rating of Cereal B:- 18.65
+### It is good to select Cereal A for the company and can focus on selling it 
+---
