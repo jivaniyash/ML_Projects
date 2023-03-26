@@ -148,11 +148,15 @@ app.layout = html.Div(children=
             Output(component_id='plot5', component_property='children')],
 
             [Input(component_id='dropdown_report_type', component_property='value'),
-            Input(component_id='dropdown_year', component_property='value')])
+            Input(component_id='dropdown_year', component_property='value')],
+            [State("plot1", 'children'), State("plot2", "children"),
+                State("plot3", "children"), State("plot4", "children"),
+                State("plot5", "children")
+               ])
 
    
 #Place to define the callback function .
-def get_graph(chart,year):
+def get_graph(chart,year,c1,c2,c3,c4,c5):
       
 # Select data
     df =  airline_data[airline_data['Year']==year]
