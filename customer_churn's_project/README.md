@@ -1,5 +1,7 @@
 # BANK_CHURN_PROJECT
 
+Check this project in [MS Sway](https://sway.office.com/h9oMniEIScGzr7TF) & in [Tableau Public](https://public.tableau.com/app/profile/yash.jivani/viz/BankCustomerChurn_16790146090980/Story1)
+
 This folder cantains files to process the bank churner's sample data for finding out the answers.
 
 ### Business Questions:
